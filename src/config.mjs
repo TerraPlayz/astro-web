@@ -1,7 +1,7 @@
 export const SITE = {
-  name: "AstroWind",
-  domain: "https://astrowind.vercel.app",
-  github: "https://github.com/onwidget/astrowind",
+  name: "TerraPlayz",
+  domain: "https://terraplayz.github.io",
+  github: "https://github.com/terraplayz/astro-web",
 
   postsPerPage: 6,
 };

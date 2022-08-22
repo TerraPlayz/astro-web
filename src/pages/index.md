@@ -9,7 +9,7 @@ TwoColsFeatures: ~/components/widgets/TwoColsFeatures.astro
 StepsLeft: ~/components/widgets/StepsLeft.astro
 HighlightedPosts: ~/components/widgets/HighlightedPosts.astro
 import: ~/components/widgets/Stats.astro
-title = Your website with Astro + Tailwind CS
+title: Your website with Astro + Tailwind CS
 description: sup
 ---
 

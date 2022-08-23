@@ -1,4 +1,3 @@
----
 import Layout from "~/layouts/PageLayout.astro";
 
 import { SITE } from "~/config.mjs";
@@ -13,22 +12,4 @@ import StepsLeft from "~/components/widgets/StepsLeft.astro";
 import HighlightedPosts from "~/components/widgets/HighlightedPosts.astro";
 import Stats from "~/components/widgets/Stats.astro";
 
-const title = `Welcome to my portfolio!`;
-const description =
-  "This is a website made for me";
-const canonical = new URL("", Astro.site);
----
-
-<Layout meta={{ title, description, canonical }}>
-  <main>
-    <Hero />
-    <BasicFeatures />
-    <StepsLeft />
-    <TwoColsFeatures />
-    <StepsFeatures />
-    <HighlightedPosts />
-    <BasicFAQs />
-    <Stats />
-    <BasicCTA />
-  </main>
-</Layout>
+# Hello World
